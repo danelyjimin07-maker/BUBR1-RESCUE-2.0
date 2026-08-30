@@ -1,0 +1,4 @@
+candidate,mechanism_tested,direct_BUBR1_evidence,N1002K_match,regulatory_status,role,key_uncertainty
+Arimoclomol,proteostasis/stress-response enhancement,indirect via unstable BUBR1 mutant precedent,high-value hypothesis,FDA-approved for NPC with miglustat,lead,no direct BUBR1 or N1002K rescue evidence
+Nicotinic acid,NAPRT-NAD-SIRT2-linked BUBR1 stabilization,direct pathway evidence for BUBR1 stability but not niacin in MVA,unknown,approved/established drug,orthogonal candidate,bridge from niacin to N1002K rescue unproven
+4-PBA,chemical proteostasis support,no direct BUBR1 rescue evidence,unknown,approved for urea-cycle disorders,comparator,no direct BUBR1 evidence
