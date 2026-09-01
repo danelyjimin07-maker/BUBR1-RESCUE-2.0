@@ -26,7 +26,7 @@ Approved drugs are matched to molecular bottlenecks rather than to the disease n
 GO requires concordant target engagement, molecular rescue, functional rescue, improved chromosome-segregation phenotype, and acceptable safety. Any broken link is a No-Go for that mechanism.
 
 ## AI assistance disclosure
-OpenAI ChatGPT, Plus plan, was used for literature organization, hypothesis structuring, drafting, and code/document preparation. The account-level training/data-sharing setting was not recorded for this project. Raw FASTQ and full VCF files were not uploaded to the assistant; only targeted, non-reconstructive variant summaries and selected annotation outputs were used.
+OpenAI ChatGPT, Plus plan, was used for literature organization, hypothesis structuring, drafting, code/document preparation, and interpretation support. The account-level "Improve the model for everyone" setting was enabled during the analysis. Raw FASTQ files and the complete genome-wide VCF were not uploaded to ChatGPT; genomic analysis was performed locally, and only targeted, non-reconstructive variant summaries and selected annotation outputs were provided for assistance. AI-generated outputs were treated as supportive material and were independently checked against primary literature, public variant databases, and the challenge data before inclusion in the final interpretation.
 
 ## Participant
 Hugging Face username: `Whoisily77`.
