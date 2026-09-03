@@ -51,6 +51,7 @@ This repository intentionally excludes raw FASTQ, VCF, genome-wide genotype tabl
 Research hypothesis for hackathon evaluation. Not medical advice and not evidence that any proposed candidate is effective or safe for MVA.
 
 ## AI assistance disclosure
-OpenAI ChatGPT, Plus plan, assisted with literature organization, hypothesis structuring, drafting, and code/document preparation. The account-level training/data-sharing setting was not recorded. Raw FASTQ and full VCF files were not uploaded to the assistant; only targeted, non-reconstructive summaries were used.
 
-**Hugging Face participant:** `Whoisily77`
+OpenAI ChatGPT, Plus plan, was used for literature organization, hypothesis structuring, drafting, code/document preparation, and interpretation support. The account-level "Improve the model for everyone" setting was enabled during the analysis. Raw FASTQ files and the complete genome-wide VCF were not uploaded to ChatGPT; genomic analysis was performed locally, and only targeted, non-reconstructive variant summaries and selected annotation outputs were provided for assistance. AI-generated outputs were treated as supportive material and were independently checked against primary literature, public variant databases, and the challenge data before inclusion in the final interpretation.
+
+**Hugging Face participant: `Whoislily77`**
